@@ -36,7 +36,7 @@ const Driving = () => {
             <FiArrowRight className='ml-3 w-12 h-12' />
           </a>
         </div>
-        <div className='flex justify-end'>
+        <div className='flex justify-end space-x-12'>
           {/* first company */}
           <div className='w-1/3'>
             <img src={crew} alt='crew logo' />
