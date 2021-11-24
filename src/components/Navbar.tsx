@@ -11,7 +11,7 @@ const Navbar = () => {
       <ul className='flex space-x-5'>
         <li>
           <a href='#'>
-            <MdOutlineNotificationsActive className='h-12 w-12 text-blue-500' />
+            <MdOutlineNotificationsActive className='h-12 w-12 text-blu' />
           </a>
         </li>
         <li>
@@ -41,7 +41,7 @@ const Navbar = () => {
         </li>
         <li>
           <a href='#'>
-            <VscCallOutgoing className='h-12 w-12 text-blue-500' />
+            <VscCallOutgoing className='h-12 w-12 text-blu' />
           </a>
         </li>
       </ul>

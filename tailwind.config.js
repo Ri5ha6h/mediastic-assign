@@ -5,7 +5,15 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        blu: '#2476fe',
+        gren: '#EDFFE5',
+      },
+      fontFamily: {
+        sora: '"Sora", sans-serif',
+      },
+    },
   },
   variants: {
     extend: {},
